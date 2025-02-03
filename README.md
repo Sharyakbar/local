@@ -4,6 +4,8 @@ This repository contains a collection of Python scripts that demonstrate basic f
 
 # add new script
 
+# added something
+
 ## Scripts Included
 
 - **Simple Calculator**: Performs basic arithmetic operations.
